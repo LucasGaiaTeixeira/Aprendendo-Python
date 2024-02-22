@@ -184,15 +184,4 @@ semana 1:
                         podemos fazer com que tente fazer uma requisição varias vezes e fica retornando certo, ou retorne erro em um while
                         
 
-funções:
-    type = dizer de qual tipo é a variavel -> type(variavel)
-    list()    
-
-informações:
-    para printar o numero para quantas casas quiaser apos a virgula usando no (f'') ou no .format
-    (variavel :.2f) ira exibir os 2 numeros apos a virgual tamgbem poderia ser (variavel :.5f) e assim por diante qauntas casas forem.
-
-metodos:
-    .lower() = deixa todas as letras das strings em minusculo.
-
 
