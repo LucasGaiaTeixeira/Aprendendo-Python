@@ -1,1 +1,1 @@
-Sobre oque aprendi sobre python.
+Sobre oque estou aprendendo sobre python.
