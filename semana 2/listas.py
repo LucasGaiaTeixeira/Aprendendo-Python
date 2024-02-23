@@ -66,11 +66,15 @@ motoristas.remove('abner')
 print(motoristas)
 
 -----------------------------------
-'''
+
 
 #reverse
 carros = ['fiat uno', 'mercedes', 'bmw']
 motoristas = ['abner', 'hermes', 'neto']
 carros.reverse()
 print(carros)
+
+-------------------------------
+'''
+
 

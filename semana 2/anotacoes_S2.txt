@@ -25,7 +25,7 @@ Dados complexos:
 
 
                 existe os undermetods= que são metodos com 2 undenscorrs ( __ )
-
+     
 
 
 
@@ -43,5 +43,37 @@ Dados complexos:
             .sort()= ele retonra mudando a posição dos valores, somente usando o . sort(): ele irá pegas os valores e colocalos em ordem alfabetica se for string ou se for numerico ira sempre começar do 0 ate o infinito ou com numeros negativos ira comçar do 0 a numero -infinitos.
                 .sort(reverse = True)= mesma coisa do somento .sort() so que sera o oposto ira pegar do final do alfabeto até o começo e ira pegar o maior numero positivo até o 0 ou o maior numero negativo até 0
                 .sort()
-        
+
     
+    Passagem por valor vs por referência:
+        Passagem por valor:
+            Os valores mudam sua forma, o valor da variavel continua intacto e a variavel continua intacta.
+            as varaiveis vão estar intactas, mas ira entregar um novo valor, e não mudar o valor em si.
+            objetos imutaveis:
+                String ou str
+                int ou inteiro
+                tuple ou tupla
+                etc...
+
+            metodos:
+                x.strip()= ele corta o espaçamento, no inicio da string se houver espaço antes de alguma letra.
+                    mas se atente porque ele se funciona dentro de um função.
+                    como:
+                        print(x.strip()) 
+                x.capitalize()= deixa todas as letras minusculas.
+                    mas como no x.strip so funciona dentro de um metodo.
+
+        passagem por referencia:
+            passagem por referência muda o valor em si de uma lista,variavel, etc...
+            
+
+            objetos mutaveis:
+                list ou lista
+                dict ou dicionário
+                set não sei oque é.
+
+            metodos:
+                .sort()
+                .pop()
+                .append()
+                etc...        
