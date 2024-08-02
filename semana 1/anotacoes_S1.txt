@@ -1,0 +1,192 @@
+semana 1:
+    Existem varias linguagens de programação, com cada uma seguindo seu propósito.
+        Mas todas elas tem espaço no mundo da programação.
+        Algumas linguagens são mais indicadas e utilizadas para front-end, back-end, dev-ops, games, Quality Assurance, etc...
+
+    Poque utiizar o python?
+        É uma linguagem bastante conhecida e uma das mais populares.
+        Conhecimento em python é bastante exigido no mercado de trabalho, porem não ha muitos profissionais especializados.
+        Ha muito conteudo em python com suas bibliotecas de forma simples acessivel.
+        Menos tempo de desenvolvimento ja que o codigo é mais curto,( de 3 a 5 vezes mais curto do que java, 5 a 10 vezes menor que C++).
+
+
+    Hard-skills python:
+        python:
+            conceitos basicos da linguageme aplicacões mais complexas, mas abrangendo areas diversas.
+
+        Banco de dados:
+            Criar, operar e consultar banco de dados, vai fazer parte de sua rotina.
+
+        FrameWork DJango:
+            É um framework open-source que facilita desenvolvimentode projetos.
+            Outras ferramentas com funções similares estão dispiniveis e algumas mais faceis de utilizar como o DJango, uma delas e o Flask.
+
+        API:
+            Application Programming Interface, conehcidos como APIs, permitem que sistemas e aplicações se comuniquem.
+
+        Web Frameworks:"
+            conhecimento a partir de outras linguagens e nessa caso web, como JavaScript(js), HTML E CSS para entender o impacto de um projeto no produto.
+
+    Soft Skills:
+        conhecimento e vontade de aprender varios tipos de ferramentas.                        
+
+    dicas de leitura:
+        Read the Doc (site – gratuito) (https://python-guide-pt-br.readthedocs.io/pt_BR/latest/intro/learning.html)
+        Python para Iniciantes (site em inglês) (https://thepythonguru.com/)
+        O tutorial de Python (site em português – gratuito) (https://docs.python.org/pt-br/3/tutorial/index.html)
+        Two Scoops of Django (livro em inglês) (https://www.feldroy.com/books/two-scoops-of-django-3-x)
+        Automatize tarefas maçantes com Python (livro em português) (https://novatec.com.br/livros/automatize-tarefas-macantes-com-python/)
+        Python Fluente (livro em português – nível intermediário) (https://novatec.com.br/livros/pythonfluente/)
+        Python para Desenvolvedores (livro em português – gratuito) (https://ricardoduarte.github.io/python-para-desenvolvedores/#conteudo'')
+        DOJO Puzzles (site para exercícios e problemas de programação) (https://dojopuzzles.com/)
+        Project Ruler (site para exercícios e problemas de programação) (https://projecteuler.net/archives)
+
+    Python:
+        Guido van Rossum começou a trabalhar na linguagem Python no final dos anos 80, como uma sucessora da linguagem de programação ABC, e a lançou em 1991. Enquanto trabalhava no Python, van Rossum também estava lendo os roteiros publicados de Monty Python’s Flying Circus, uma série de comédia da BBC da década de 1970. Ele queria um nome que fosse curto, único e um pouco misterioso, então decidiu chamar a linguagem de Python.
+
+        Python é uma linguagem de programação de alto nível, ágil e interativa; considerada uma das mais populares atualmente e citada pelo índice da TIOBE como a Linguagem de Programação do Ano de 2021. Além disso, é uma ferramenta acessível, gratuita, independente, e que pode ser utilizada em Windows, Mac e Linux.
+
+        Python é uma linguagem interpretada, ou seja, ela traduz o código analisado e o executa. Funciona de maneira mais acessível e facilita a leitura do código,  pois possui uma sintaxe concisa e que permite escrever aplicativos usando menos linhas de código do que outras linguagens de programação. Isso significa que você gasta menos tempo interpretando e mais tempo fazendo mudanças essenciais aos seus projetos.
+
+
+    jupyter notebook:
+        Oque é um notebook?
+            Um notebook integra o código e sua saída em um único documento que combina visualizações, texto narrativo, equações matemáticas e outras midias avançadas.
+            É um documento unico ao qual você pode executar o código.
+            Utilizando tambem explicações, fórmulas, gráficos e torna seu trabalho mais transparente, compreensível, repetível e compartilhavel.
+            Importante tabalho na ciencia de dados.
+                
+    Operadores lógicos, aritiméticos e de comparação:
+        operações aritiméticas:
+            + = soma
+            - = subtração
+            * = multiplicação
+            ** = exponensiação
+            / = divisão
+            // = divisão exata
+            % = resto da divisão
+
+            A ordem de precedência é considerada da esquerda para a direita; 
+            Divisão e multiplicação são executadas antes das operações de adição e subtração.
+            As expressões contidas em parênteses têm a precedência maior na linguagem Python. Isso permite que uma expressão seja executada antes de outra.
+            Após os parênteses, o próximo operador com maior precedência é o de exponenciação.
+
+        peradores de comparação:
+            == = igual á
+            != = diferende de
+            < = menor que
+            <= = menor ou igual á
+            > = maior que
+            >= = maior ou igual á
+
+        Operadores Booleanos:
+            Combinações:
+                (True ,True),
+                (True, False),
+                (False ,True),
+                (False, False).
+
+    Variaveis e tipos de dados:
+        Tipos de dados:
+            Tipo numérico:
+                Tipo inteiro:
+                    byte = (implicito no puthon)
+                    short =  (implicito no python)
+                    int =  numero inteiro
+                    long = (implicito no python)
+                    char = (implicito no python)
+                Tipo flutuante:
+                    Float = numero decimal
+                    Double = (implicito no python)         
+        
+        obs: não se pode colocar nomes de variaveis com palavras especiais com funções do python.
+        
+        obs2: no python podemos atribuir o mesmo valor a varias variavies ex:
+            a=b=c=1 -> a,b,c = 1
+            tambem como se cria objetos com estes valores e tambem, pode se fazer de outra forma:
+                a,b,c = 1,2,'joao'
+                a = 1
+                b = 2
+                c = 'joao'
+                foram feitos 3 objetos para serem usados como variaveis 2 do tipo numericos e 1 do tipo String
+
+    Controle de fluxo:
+        if = se
+        elif = senão se
+        else = senão
+
+        while = enquanto
+
+        for = para que
+
+        
+        
+        controle de fluxo if:
+            if e um bloco de comando executavel quando a condiçào de controle for verdadeira
+
+
+        Laço for:
+            repetição de um determinado conjunto ou variavel.
+            como por exemplo:
+                100 * ['ana', 'jose', 'maria']
+                output: ana', 'jose', 'maria'
+                        ana', 'jose', 'maria'
+                        ana', 'jose', 'maria'
+                        ana', 'jose', 'maria'
+                        100 vezes
+                        ou
+                atribuir essa lista a uma variavel:
+                    nomes =  ['ana', 'jose', 'maria']      
+                    for x in nomes:
+                        print(x)
+                    output: 'ana', 'jose', 'maria'    
+                    o for ira percorrer nos itens da variavel nomes sendo lista, tupla dicionario, qualquer valor que tiver a variavel e pegar cada valor um por 1 e fazer algo dentro do bloco de comando do for.
+
+                print(list(range(10))) = podemos gerar uma lista assim com o metodo list   
+                        ou 
+                for lista in range(1,10):
+                    ira contar de 1 a 9 não contanto com o ultimo numero se quiser o 10 usar (1,11)
+                    e para decrescer o for colocar:
+                        for lista in range(10,1,-1) para ser descrecente
+                usar a função zip() ira empacotar 2 o mais listas, para pegar os primiero valores, de todas as lista e jogar um de cada vez pelo seus indices
+                    e para usar o valor usar o next(nome da variavel da listas no zip)
+                podemos tambem usar os valores dessa lista de tuplas que retorna do zip e colocar ambos na lista
+                    ex: nos codigos da pasta for    
+
+                #list comprehension = aplicação com laço for que gera novas listas sendo o metodo com so uma linha
+                    nomes = ['bruno', 'jose', 'amanda']
+                    nomes_com_ate_5_caracteres = [nome for nome in nomes if len(nome) <= 5]
+                    print(nomes_com_ate_5_caracteres)
+                
+                for numero in range(100):
+                    if numero % 2 != 0:
+                        continue# usando desse continue assim que pegar nele o ciclo ira volar para o for e pegar outro numero, sem passar pelo resto do loop
+                    print(f'O numero {numero} é par')
+
+                    if numero == 20:
+                        print('Ops... ja verefiquei muitos numeros pares')
+                        break  =quando usar o break irá para toda a execução do bloco e ira continuar com o resto do programa
+
+                obs: depois que executamos um gerador ele fica vazio, então temos que gerar novamente as listas    
+                obs2:
+                '
+                
+                
+
+        
+        laço while:
+            #while = enquanto == true
+                #vai executar um bloco de codigo
+            Equanto o fluxo while tiver a condição verdadeira ele ira rodar quantas vezes for ate não ser mais verdadeira.
+            podendo se colocar um if a quantidades de vezes se quiser depedendo do motivo e colcoar um break para parar o fluxo antes da hora.
+            while condição:
+                try:
+                    #código
+                    #break
+                except:
+                    #retornou erro
+                    #break
+                        podemos fazer com que tente fazer uma requisição varias vezes e fica retornando certo, ou retorne erro em um while
+                        
+
+

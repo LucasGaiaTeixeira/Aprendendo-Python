@@ -1,0 +1,14 @@
+funções:
+    type = dizer de qual tipo é a variavel -> type(variavel)
+    list()= outro metodo de criar uma lista, mas podendo criar uma lista com tuplas, dicionarios, etc.    
+    type()= mostra o tipo da variavel, tuplas, listas, dicionarios, objetos, mostra o tipo dele se é uma lista, tupla, objeto, etc.
+    dir()=mostras todos os metodos de um objeto
+    len()=le os itens da lista, tanto como palavras ou letras.
+
+informações:
+    para printar o numero para quantas casas quiaser apos a virgula usando no (f'') ou no .format
+    (variavel :.2f) ira exibir os 2 numeros apos a virgual tamgbem poderia ser (variavel :.5f) e assim por diante qauntas casas forem.
+
+metodos:
+    .lower() = deixa todas as letras das strings em minusculo.
+
